@@ -1,0 +1,7 @@
+body{
+background-color: gray;
+}
+
+img:hover{
+    border-radius: 40px;
+}
